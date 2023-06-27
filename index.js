@@ -112,4 +112,3 @@ function selectWinner(){
 replayBtn.onclick = ()=>{
     window.location.reload();
 }
-
