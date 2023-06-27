@@ -24,3 +24,8 @@ selectBtnO.onclick = ()=>{
     playBoard.classList.add("show");
     players.setAttribute("class", "players active player");
 }
+
+let playerXIcon = "fas fa-times",
+playerOIcon = "far fa-circle",
+playerSign = "X",
+runBot = true;
