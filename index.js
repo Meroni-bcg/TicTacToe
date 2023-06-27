@@ -14,3 +14,8 @@ window.onload = ()=>{
     }
 }
 
+selectBtnX.onclick = ()=>{
+    selectBox.classList.add("hide");
+    playBoard.classList.add("show");
+}
+
